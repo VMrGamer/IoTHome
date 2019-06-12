@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="tab_text_1">Rooms</string>
+    <string name="tab_text_2">Appliances</string>
+    <string name="tab_text_3">Settings</string>
+</resources>
